@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'any'
+project = 'Inline documentation'
 copyright = '2023, albert'
 author = 'albert'
 
